@@ -1,0 +1,7 @@
+{
+    "CLIENT_SECRET_FILE": "C:/Users/moury/OneDrive/Desktop/Youtube Project/VERSION-01/Upload-Test/client_secrets.json",
+    "TOKENS_DIR": "C:/Users/moury/OneDrive/Desktop/Youtube Project/VERSION-01/Upload-Test/tokens",
+    "DOWNLOAD_FOLDER": "C:/Users/moury/OneDrive/Desktop/Youtube Project/VERSION-01/Upload-Test/test_upload",
+    "OPENAI_API_KEY": "your key here",
+    "TIMEZONE": "Asia/Kolkata"
+}
