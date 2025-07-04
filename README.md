@@ -94,4 +94,5 @@ Youtube-Project/
 ---
 
 ## **📝 Author**
-Created by [Your Name] 🚀
+Created by Mourya Arnepalli, I got bored and made this out of my childhood curiosity of becoming a YouTuber 🚀
+PLEASE USE THIS TO REUPLOAD VIDEOS WHICH ARE COPYRIGHT FREE ONLY, Because otherwise you will be in BIG TROUBLE
